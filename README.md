@@ -1,4 +1,4 @@
 # Data_Analysis_Club_Projects
-Activities in data analysis club - Projects
+Colaboration with data analysis club members
 
 - 테스트중 입니당
